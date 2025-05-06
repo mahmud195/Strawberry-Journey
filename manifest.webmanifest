@@ -1,0 +1,15 @@
+{
+    "name": "البرتقالة الذكية",
+    "short_name": "البرتقالة الذكية",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "البرتقالة الذكية",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
